@@ -1,0 +1,1 @@
+VITDET  ·  frames: 495  ·  avg=1365.6 ms  ·  0.7 fps
